@@ -1,18 +1,26 @@
 📌 Overview
 
-This repository is a curated portfolio of hands-on data mining practice projects that demonstrate key concepts such as classification, clustering, association rule mining, and anomaly detection. It showcases a structured application of algorithms like Decision Trees, K-Means, Apriori, and DBSCAN across various real-world datasets.
+This repository is a comprehensive collection of data mining projects and assignments that demonstrate proficiency in various data analysis techniques. It encompasses a range of topics including data preprocessing, exploratory data analysis (EDA), clustering, classification, association rule mining, and time series analysis.
 
-💡 Key Features
+🧠 Key Features
 
-End-to-End Workflows: From data preprocessing to model evaluation and visualization.
+Data Preprocessing & EDA: Techniques for cleaning, transforming, and visualizing data to uncover underlying patterns.
 
-Algorithm Implementation: Includes both built-in and custom implementations of core data mining algorithms.
+Clustering Algorithms: Implementation of K-Means and DBSCAN for grouping similar data points.
 
-Exploratory Analysis: Insightful visualizations and statistical summaries to understand feature distributions and relationships.
+Classification Models: Use of Decision Trees and ensemble methods to predict categorical outcomes.
 
-Use Cases: Applications in domains like e-commerce, health, and finance.
+Association Rule Mining: Application of the Apriori algorithm to discover interesting relationships between variables.
 
-🔧 Tools & Libraries
+Time Series Analysis: Analysis of temporal data to forecast future trends.
 
-Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+Low-Code Tools: Utilization of PyCaret and AutoGluon for rapid model development and deployment.
+
+🛠️ Technologies Used
+
+Programming Languages: Python
+
+Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PyCaret, AutoGluon
+
+Tools: Jupyter Notebook
 
